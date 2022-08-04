@@ -33,7 +33,7 @@ export default Vue.extend({
         return {
             coverages: [
                 { id:10, name:"Drive other Car", componentName:"DriveOtherCar" },
-                { id:15, name:"Exclusion - Extra data", componentName:"Exclusion"},
+                { id:15, name:"Exclusion - Extra data and longer coverage name", componentName:"Exclusion"},
                 { id:20, name:"Underage Driver", componentName:"UnderageDriver"},
             ]
         }
